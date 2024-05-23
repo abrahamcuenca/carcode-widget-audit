@@ -1,0 +1,17 @@
+[
+  {
+    "dealerId": "123",
+    "dealerName": "Maharba Dealer",
+    "url": "https://acuenca.carcode-demo.com"
+  },
+  {
+    "dealerId": "456",
+    "dealerName": "Mnachum Motors",
+    "url": "https://mnachum.carcode-demo.com"
+  },
+  {
+    "dealerId": "789",
+    "dealerName": "JWoo Motors",
+    "url": "https://jwoo.carcode-demo.com"
+  }
+]
